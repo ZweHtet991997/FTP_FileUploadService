@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "q9zWEErf4fzGrogPd6p6YKWg/ZCed+yX4DY3/u+7dFQrCiT5NPVC49hLZOLXAJx4diKVneiC8w5wNdl+D2lQQA==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\MyRepo\\C#\\DotNet\\FTP Service\\FileUpload_To_FTP_Server\\FileUpload_To_FTP_Server\\FileUpload_To_FTP_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zwewaiyanhtet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zwewaiyanhtet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zwewaiyanhtet\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\zwewaiyanhtet\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\zwewaiyanhtet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\zwewaiyanhtet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

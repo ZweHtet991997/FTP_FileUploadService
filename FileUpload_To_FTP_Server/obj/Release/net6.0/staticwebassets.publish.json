@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gT2kU2SlNBzxo+BnNKiXD422AXUcLqQkGRMRi9vswhM=",
+  "Source": "FileUpload_To_FTP_Server",
+  "BasePath": "_content/FileUpload_To_FTP_Server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

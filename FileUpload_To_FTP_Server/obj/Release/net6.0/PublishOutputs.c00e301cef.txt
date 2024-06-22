@@ -1,0 +1,11 @@
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\FileUpload_To_FTP_Server.exe
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\FileUpload_To_FTP_Server.dll
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\FileUpload_To_FTP_Server.deps.json
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\FileUpload_To_FTP_Server.runtimeconfig.json
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\FileUpload_To_FTP_Server.pdb
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyProjects\MyRepo\C#\DotNet\FTP Service\FileUpload_To_FTP_Server\FileUpload_To_FTP_Server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

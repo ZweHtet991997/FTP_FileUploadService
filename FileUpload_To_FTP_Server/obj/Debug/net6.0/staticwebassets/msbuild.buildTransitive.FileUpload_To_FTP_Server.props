@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FileUpload_To_FTP_Server.props" />
+</Project>
